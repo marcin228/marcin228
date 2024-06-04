@@ -1,6 +1,6 @@
 # Hi!
 
-I would appreciate it if you could take a look at them as well as my [LeetCode](https://leetcode.com/marcin228) account that I have been actively working on to demonstrate my dedication and passion for problem-solving.
+I would appreciate it if you could take a look at my [LeetCode account](https://leetcode.com/marcin228) that I have been actively working on to demonstrate my dedication and passion for problem-solving.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
