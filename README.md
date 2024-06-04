@@ -2,7 +2,7 @@
 
 I would appreciate it if you could also take a look at my [LeetCode account](https://leetcode.com/marcin228) that I have been actively working on to demonstrate my dedication and passion for problem-solving.
 
-![LeetCode](https://leetcard.jacoblin.cool/marcin228?ext=heatmap)
+[![LeetCode](https://leetcard.jacoblin.cool/marcin228?ext=heatmap)](https://leetcode.com/marcin228)
 
 <!---
 ![LeetCode](https://leetcode-stats-six.vercel.app/?username=marcin228)
