@@ -2,7 +2,7 @@
 
 I would appreciate it if you could also take a look at my [LeetCode account](https://leetcode.com/marcin228) that I have been actively working on to demonstrate my dedication and passion for problem-solving.
 
-![LeetCode](https://leetcard.jacoblin.cool/marcin228?ext=heatmap)
+![LeetCode](https://leetcode-stats-six.vercel.app/?username=marcin228?ext=heatmap)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
