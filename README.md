@@ -16,7 +16,10 @@ I would appreciate it if you could also take a look at my [LeetCode account](htt
 ![LeetCode](https://leetcode-stats-six.vercel.app/?username=marcin228)
 -->
 
-You can also try my **Opera extensions** that [clean up homepage](https://github.com/marcin228/GoodOldTube), [get rid of 3 video limit and adblocker warning](https://github.com/marcin228/UnlimitedTube) and [get the old layout for easy access and readability of comments](https://github.com/marcin228/CommentsPlease).
+You can also try my **Opera extensions** that:
+[clean up homepage](https://github.com/marcin228/GoodOldTube),
+[get rid of 3 video limit and adblocker warning](https://github.com/marcin228/UnlimitedTube) 
+and [get the old layout for easy access and readability of comments](https://github.com/marcin228/CommentsPlease).
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
