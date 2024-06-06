@@ -1,9 +1,12 @@
 # Hello!
 
 Hera are some demos of Pixi.js, Phaser.js & Typescript.
-[Pixi.js + vanilla JS, playable demo][https://goingforit.pl/pixi-js-demo]
-[Phaser.js + TS, playable demo][https://goingforit.pl/phaserjs-ts-demo]
-[Pixi.js + TS, demo][https://goingforit.pl/pixi-ts-demo]
+
+[Pixi.js + vanilla JS, playable demo](https://goingforit.pl/pixi-js-demo)
+
+[Phaser.js + TS, playable demo](https://goingforit.pl/phaserjs-ts-demo)
+
+[Pixi.js + TS, demo](https://goingforit.pl/pixi-ts-demo)
 
 I would appreciate it if you could also take a look at my [LeetCode account](https://leetcode.com/u/marcin228) that I have been actively working on to demonstrate my dedication and passion for problem-solving.
 
