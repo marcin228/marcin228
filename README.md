@@ -23,7 +23,7 @@ You can also try my **Opera extensions** that:
 
 [get rid of 3 video limit and adblocker warning](https://github.com/marcin228/UnlimitedTube) 
 
-and [get the old layout for easy access to comments and their readability](https://github.com/marcin228/CommentsPlease).
+and [changes layout for easy access to comments and their readability](https://github.com/marcin228/CommentsPlease).
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
