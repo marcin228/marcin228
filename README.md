@@ -2,7 +2,7 @@
 
 Here is the latest project - playlist manager that enables to anonymously share youtube playlists via links, manages playlists stored on your device and plays them just the way you like. Made with: React, TypeScript, YouTube SDK, Context API, react-router, framer-motion and more. Codebase is available here: [PlayListen](https://github.com/marcin228/PlayListen)
 
-
+---
 
 Please do no hesitate to try out my demos of Pixi.js, Phaser.js & Typescript.
 
