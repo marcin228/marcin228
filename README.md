@@ -1,6 +1,6 @@
 # Hello!
 
-Here is the latest project - playlist manager that enables to anonymously share youtube playlists via links, manages playlists stored on your device and plays them just the way you like. Made with: React, TypeScript, YouTube SDK, Context API, react-router, framer-motion and more. Codebase is available here: [PlayListen](https://github.com/marcin228/PlayListen)
+Here is my latest project - playlist manager that enables to anonymously share youtube playlists via links, manages playlists stored on your device and plays them just the way you like. Made with: React, TypeScript, YouTube SDK, Context API, react-router, framer-motion and more. Codebase is available here: [PlayListen](https://github.com/marcin228/PlayListen)
 
 ---
 
@@ -14,11 +14,13 @@ Please do no hesitate to try out my demos of Pixi.js, Phaser.js & Typescript.
 
 ---
 
-I would appreciate it if you could also take a look at my [LeetCode account](https://leetcode.com/u/marcin228) that I have been actively working on to demonstrate my dedication and passion for problem-solving.
+I would appreciate it if you could also take a look at my [LeetCode account](https://leetcode.com/u/marcin228) that I have been actively working on to demonstrate my dedication and passion for problem-solving. I have also prepared for all TS enthusiasts an implementation of a [Priority Queue](https://github.com/marcin228/TSPriorityQueue), so it can be used in all priority queue/min-max heap challenges as there is no built in or STL for it in JS/TS.
 
 [![LeetCode](https://leetcard.jacoblin.cool/marcin228?ext=heatmap)](https://leetcode.com/u/marcin228)
 
+<!----
 [![LeetCode](https://leetcode-stats-six.vercel.app/?username=marcin228)](https://leetcode.com/u/marcin228)
+-->
 
 ---
 
