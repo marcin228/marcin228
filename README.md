@@ -17,10 +17,7 @@ Please do no hesitate to try out my demos of Pixi.js, Phaser.js & Typescript.
 I would appreciate it if you could also take a look at my [LeetCode account](https://leetcode.com/u/marcin228) that I have been actively working on to demonstrate my dedication and passion for problem-solving.
 
 [![LeetCode](https://leetcard.jacoblin.cool/marcin228?ext=heatmap)](https://leetcode.com/u/marcin228)
-
-<!---
 ![LeetCode](https://leetcode-stats-six.vercel.app/?username=marcin228)
--->
 
 ---
 
