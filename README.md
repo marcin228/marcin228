@@ -4,7 +4,7 @@ Here is my latest project - playlist manager that enables to anonymously share y
 
 ---
 
-Please do no hesitate to try out my demos of Pixi.js, Phaser.js & Typescript.
+Please do not hesitate to also try out my demos of Pixi.js, Phaser.js & Typescript.
 
 [Phaser.js + TS, playable demo](https://goingforit.pl/phaserjs-ts-demo)
 
