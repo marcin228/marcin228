@@ -5,6 +5,7 @@ Here is my latest project - playlist manager that enables to anonymously share y
 ---
 
 Below you can find some of the recruitment tasks that I have completed recently:
+* [frogs](https://github.com/marcin228/frogs)
 * [deep equal](https://github.com/marcin228/deep-equal)
 * [subfolder removal](https://github.com/marcin228/subfolder-removal)
 * [names](https://github.com/marcin228/names)
