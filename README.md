@@ -4,7 +4,7 @@ Here is my latest project - playlist manager that enables to anonymously share y
 
 ---
 
-This is my latest homework assignment: an Angular 20 demo using Signals:
+This is my latest homework assignment - an Angular 20 demo using Signals:
 * [angular20 + Signals](https://github.com/marcin228/angular20)
 
 Below you can find some other recruitment tasks that I have completed:
