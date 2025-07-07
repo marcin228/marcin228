@@ -4,10 +4,10 @@ Here is my latest project - playlist manager that enables to anonymously share y
 
 ---
 
-This is my latest home assignment, Angular 20 demo with Signals:
-* [amgular20 + Signals](https://github.com/marcin228/angular20)
+This is my latest homework assignment: an Angular 20 demo using Signals:
+* [angular20 + Signals](https://github.com/marcin228/angular20)
 
-Below you can find some of the recruitment tasks that I have completed recently:
+Below you can find some other recruitment tasks that I have completed:
 * [frogs](https://github.com/marcin228/frogs)
 * [deep equal](https://github.com/marcin228/deep-equal)
 * [subfolder removal](https://github.com/marcin228/subfolder-removal)
